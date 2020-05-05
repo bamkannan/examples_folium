@@ -13,7 +13,10 @@ Authors
 
 Use
 ===
-View the notebooks in the ``notebooks`` directory or run them online in Binder by clicking the Binder badge above.
+Two options to use the notebooks in the ``notebooks`` directory:
+
+a. Clone this repository, install the dependencies in a virtual environment via ``poetry install``, then run the notebooks.
+b. Run notebooks online with Binder by clicking the Binder badge above.
 
 
 Changes
