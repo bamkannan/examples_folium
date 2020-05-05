@@ -1,5 +1,8 @@
 Folium Examples
 ***************
+.. image:: https://mybinder.org/badge_logo.svg
+    :target: https://mybinder.org/v2/gh/mrcagney/examples_folium/master
+
 Python 3.8+ Jupyter notebooks illustrating our common use of the Folium library.
 
 
